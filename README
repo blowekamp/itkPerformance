@@ -1,0 +1,18 @@
+This is an external module for ITK: The Insight Toolkit for
+Segmentation and Registration. With ITKv4 it can be placed in
+"Modules/External", and enabled with CMake.
+
+The purpose of this module is to provide a series of tests to evaluate
+the performance of ITKv4.
+
+License
+-------
+
+This software is distributed under the Apache License. Please see
+LICENSE for details. 
+
+
+Author
+------
+
+Bradley Lowekamp
