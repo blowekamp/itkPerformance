@@ -22,7 +22,7 @@
 #include "itkImage.h"
 #include "itkAddImageFilter.h"
 
-#if defined(_MSC_VER)
+#if defined(_MSC_VER) 
 #pragma warning ( disable : 4786 )
 #endif
 
